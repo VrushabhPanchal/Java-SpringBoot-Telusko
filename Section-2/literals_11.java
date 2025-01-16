@@ -1,4 +1,4 @@
-public class literals {
+public class literals_11 {
     public static void main(String[] args) {
         // Literals
 
@@ -16,8 +16,8 @@ public class literals {
         System.out.println(num1 + " <========== Integer");
         System.out.println(num2 + " <========== Integer with binary literal");
         System.out.println(num3 + " <========== Integer with hexadecimal literal");
-        System.out.println(num4);
-        System.out.println(d);
+        System.out.println(num4 + " <========== Different style to write the long value");
+        System.out.println(d + " ");
     }
 
 }
